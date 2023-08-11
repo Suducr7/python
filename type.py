@@ -1,0 +1,19 @@
+i=5
+j=15
+x="sudarshan"
+l="python"
+product=('nividia','ryzen')
+print(i)
+print(j)
+print(x)
+print(l)
+print(product[0])
+print(product[1])
+print(type(i))
+print(type(j))
+print(type(x))
+print(type(l))
+print(type(product))
+a={"sudarshan" : "7","pratik": "5"}
+print(a)
+print(type(a))
